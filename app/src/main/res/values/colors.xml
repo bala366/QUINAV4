@@ -1,0 +1,9 @@
+<resources>
+    <color name="purple_main">#6A1B9A</color>
+    <color name="purple_dark">#4A148C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green_game">#1B8F3A</color>
+    <color name="red_fail">#D43B3B</color>
+    <color name="text_dark">#212121</color>
+    <color name="gray_light">#EEEEEE</color>
+</resources>
